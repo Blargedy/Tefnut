@@ -8,7 +8,7 @@ The primary purpose of Tefnut is to keep filament clean of dust/debris to avoid 
 
 ## [Individual-Spool Dry-box Inserts and Modified Universal Auto-Rewind Spool Holder](https://github.com/Blargedy/Tefnut/tree/main/Individual-Spool_Dry-box_Inserts_and_Modified_Universal_Auto-Rewind_Spool_Holder)
 ![IMG_4289](https://user-images.githubusercontent.com/25805271/205777900-8fdddbdf-d2cd-45db-a32c-d9cf1c475d19.jpg)
-Need to move your spool of filament into a dry-box while still using the Universal Auto-Rewind Spool Holder? This set of files will let you do so. This set of modifications and new custom parts moves VincentGroenhuis' rewinder into a Rubbermaid 1776473 21-Cup Dry Food Container. When combined with a panel mounted pneumatic fitment or mmu tube holder you can print directly from this dry-box.
+Need to move your spool of filament into a dry-box while still using the Universal Auto-Rewind Spool Holder? This set of files will let you do so. This set of modifications and new custom parts moves [VincentGroenhuis'](https://www.thingiverse.com/thing:3338467) rewinder into a Rubbermaid 1776473 21-Cup Dry Food Container. When combined with a panel mounted pneumatic fitment or mmu tube holder you can print directly from this dry-box.
 
 ## [Drybox Holder for Rubbermaid 1861476 Zylar Container](https://github.com/Blargedy/Tefnut/tree/main/Drybox_Holder_for_Rubbermaid_1861476_Zylar_Container)
 ![IMG_4290](https://user-images.githubusercontent.com/25805271/205778030-9f22034d-8bae-4667-ae36-8feab201c78a.jpg)
