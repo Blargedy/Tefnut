@@ -1,0 +1,1 @@
+These pieces are designed to be used with my individual-spool drybox inserts. The outer fitment is a panel mounted push-fit holder for 6mm outer diameter tubing, and the inside fitment is a funnel guide for filament being pulled from spools that are almost out of filament
