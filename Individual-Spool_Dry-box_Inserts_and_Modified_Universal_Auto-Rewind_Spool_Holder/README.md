@@ -55,6 +55,7 @@ Warning: the spring is very difficult to get to stay on the plate and not ruin a
 * One extra Axle Holder Nut
 
 ![ExampleLayoutOfRequiredParts](https://user-images.githubusercontent.com/25805271/205786003-50ce7673-62ce-474f-a29e-98ccd4200267.png)
+
 Example layout containing all the required parts. See provided 3mf file to get all parts already laid out.
 
 #### Tips for installation
