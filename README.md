@@ -10,7 +10,7 @@ This set of modifications and new custom parts moves [VincentGroenhuis'](https:/
 
 ## [The Filament Butler - a manual replacement of the prusa MMU2s](https://github.com/Blargedy/The_Filament_Butler)
 ![cropped_20221014_140138](https://user-images.githubusercontent.com/25805271/224193014-3ce16d77-9508-4749-90c0-f3b431c8cae3.jpg)
-For use in high(ish) temperature printing, where the Prusa MMU2s electronics cannot function, this butler keeps the filaments handy for loading, all without needing to open the dryboxes
+For use in high(ish) temperature printing, where the Prusa MMU2s electronics cannot function, this butler keeps the filaments handy for loading, all without needing to open the dryboxes. See the github site for The Filament Butler for instructions and files.
 
 ## [Drybox Holder for Rubbermaid 1861476 Zylar Container](https://github.com/Blargedy/Tefnut_Filament_Handling/tree/main/Drybox_Holder_for_Rubbermaid_1861476_Zylar_Container)
 ![IMG_4290](https://user-images.githubusercontent.com/25805271/205778030-9f22034d-8bae-4667-ae36-8feab201c78a.jpg)
