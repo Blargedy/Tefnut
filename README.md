@@ -1,14 +1,16 @@
 # Tefnut Filament Handling
 A system for the management of 3D printer filament. Based on cereal containers as individual dryboxes for spools of filament.
 
-# Migration from thingiverse to github is WIP. This message will be removed once migration is complete
-
 ## Goal
 The primary purpose of Tefnut is to keep filament clean of dust/debris to avoid jams and clogs, and can also help with keeping filament dry. I found there is too much air leakage in the system to maintain a low humidity long term without regular swapping of large amounts of dessecant. That being said, with regular swapping of large amounts of dessecant it is possible to keep each filament completely dry. 
 
 ## [Individual-Spool Dry-box Inserts and Modified Universal Auto-Rewind Spool Holder](https://github.com/Blargedy/Tefnut_Filament_Handling/tree/main/Individual-Spool_Dry-box_Inserts_and_Modified_Universal_Auto-Rewind_Spool_Holder)
 ![IMG_4289](https://user-images.githubusercontent.com/25805271/205777900-8fdddbdf-d2cd-45db-a32c-d9cf1c475d19.jpg)
 This set of modifications and new custom parts moves [VincentGroenhuis'](https://www.thingiverse.com/thing:3338467) rewinder into a Rubbermaid 1776473 21-Cup Dry Food Container. When combined with a panel mounted pneumatic fitment or mmu tube holder you can print directly from this dry-box.
+
+## [The Filament Butler - a manual replacement of the prusa MMU2s](https://github.com/Blargedy/The_Filament_Butler)
+For use in high(ish) temperature printing, where the Prusa MMU2s electronics cannot function, this butler keeps the filaments handy for loading, all without needing to open the dryboxes
+![cropped_20221014_140138](https://user-images.githubusercontent.com/25805271/224193014-3ce16d77-9508-4749-90c0-f3b431c8cae3.jpg)
 
 ## [Drybox Holder for Rubbermaid 1861476 Zylar Container](https://github.com/Blargedy/Tefnut_Filament_Handling/tree/main/Drybox_Holder_for_Rubbermaid_1861476_Zylar_Container)
 ![IMG_4290](https://user-images.githubusercontent.com/25805271/205778030-9f22034d-8bae-4667-ae36-8feab201c78a.jpg)
